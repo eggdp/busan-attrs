@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/busan-attrs/static/css/main.85768c17.css",
-    "main.js": "/busan-attrs/static/js/main.799d81cf.js",
+    "main.js": "/busan-attrs/static/js/main.4832dfd3.js",
     "index.html": "/busan-attrs/index.html",
     "main.85768c17.css.map": "/busan-attrs/static/css/main.85768c17.css.map",
-    "main.799d81cf.js.map": "/busan-attrs/static/js/main.799d81cf.js.map"
+    "main.4832dfd3.js.map": "/busan-attrs/static/js/main.4832dfd3.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.799d81cf.js"
+    "static/js/main.4832dfd3.js"
   ]
 }
